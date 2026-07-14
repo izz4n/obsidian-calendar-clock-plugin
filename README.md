@@ -4,7 +4,7 @@ Simple [Obsidian](https://obsidian.md) plugin that injects a live clock directly
 
 This plugin is designed as a zero-configuration UI extension, providing a seamless layout bridge between your daily note schedule and the current time.
 
-![Showcase](images/https://raw.githubusercontent.com/izz4n/obsidian-calendar-clock-plugin/master/images/clock-showcase.gif)
+![Showcase](images/clock-showcase.gif)
 
 
 ## Prerequisite
@@ -29,7 +29,9 @@ Once enabled, the plugin automatically finds your active Calendar panel in the s
 To customize the clock's behavior, navigate to **Settings > Calendar Clock Companion**:
 
 * **Use 12-hour format:** Toggle this ON to switch from a 24-hour military layout to a standard 12-hour AM/PM clock display.
+![12 Hour Clock](images/12-hour.png)
 * **Show seconds:** Toggle this OFF if you prefer a quieter, minimal view showing just the hours and minutes (`HH:MM`).
+![Hide Seconds](images/no-seconds.png)
 
 ## Features
 
