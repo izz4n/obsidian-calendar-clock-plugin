@@ -4,7 +4,7 @@ Simple [Obsidian](https://obsidian.md) plugin that injects a live clock directly
 
 This plugin is designed as a zero-configuration UI extension, providing a seamless layout bridge between your daily note schedule and the current time.
 
-![Showcase}(images/https://raw.githubusercontent.com/izz4n/obsidian-calendar-clock-plugin/master/images/clock-showcase.gif)
+![Showcase](images/https://raw.githubusercontent.com/izz4n/obsidian-calendar-clock-plugin/master/images/clock-showcase.gif)
 
 
 ## Prerequisite
