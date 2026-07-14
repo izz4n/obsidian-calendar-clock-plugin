@@ -29,9 +29,11 @@ Once enabled, the plugin automatically finds your active Calendar panel in the s
 To customize the clock's behavior, navigate to **Settings > Calendar Clock Companion**:
 
 * **Use 12-hour format:** Toggle this ON to switch from a 24-hour military layout to a standard 12-hour AM/PM clock display.
+
 ![12 Hour Clock](images/12-hour.png)
 
 * **Show seconds:** Toggle this OFF if you prefer a quieter, minimal view showing just the hours and minutes (`HH:MM`).
+
 ![Hide Seconds](images/no-seconds.png)
 
 ## Features
