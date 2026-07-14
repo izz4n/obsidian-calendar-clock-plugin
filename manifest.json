@@ -1,0 +1,10 @@
+{
+  "id": "calendar-clock",
+  "name": "Calendar Clock Companion",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Simple, live clock above the Liam Cain Calendar plugin",
+  "author": "Izzan Mirza",
+  "authorUrl": "https://github.com/izz4n/",
+  "isDesktopOnly": false
+}
